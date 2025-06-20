@@ -1,6 +1,6 @@
 {
   "name": "hydrophonic",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Streamed Docker-Engine client library, instrumented and interfaced with Kefir.js",
   "main": "./lib/hydrophonic.js",
   "scripts": {
