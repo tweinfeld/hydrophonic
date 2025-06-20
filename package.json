@@ -6,11 +6,24 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["stream", "engine", "docker", "client", "kefirjs", "kefir"],
+  "keywords": [
+    "stream",
+    "engine",
+    "docker",
+    "client",
+    "kefirjs",
+    "kefir"
+  ],
   "author": "Tal Weinfeld",
+  "files": [
+    "lib/"
+  ],
   "license": "MIT",
   "dependencies": {
     "kefir": "^3.8.8",
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.3"
   }
 }
